@@ -1,4 +1,10 @@
+build/
+.directory
 node_modules/
-npm-debug.log
+package-lock.json
+.project
+.settings/
+.sonatype
+.idea
+.gradle/
 tests/coverage
-dist/
